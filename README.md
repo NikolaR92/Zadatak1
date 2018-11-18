@@ -22,7 +22,7 @@ In config files are argument values for functions.
 ```sh
 $ git clone https://NikolaR92@bitbucket.org/NikolaR92/Zadatak1.git
 ```
-##Installing dependencies on Ubuntu
+## Installing dependencies on Ubuntu
 
 Npm
 ```sh
@@ -36,13 +36,13 @@ $ echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sour
 $ sudo apt-get update
 $ sudo apt-get install yarn
 
-##Install tools JavaScript
+## Install tools JavaScript
 
 ```sh
 $ yarn install - installs all packages for a project
 $ yarn upgrade - upgrades all packages for a project
 ```
-##Adding new packages with yarn
+## Adding new packages with yarn
 dependencies
 ```sh
 $ yarn add package_name
